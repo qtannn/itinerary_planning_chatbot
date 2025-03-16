@@ -95,38 +95,13 @@ Built using **Dialogflow CX**, the chatbot follows a **modular conversation flow
 
 ## **🔍 Key Features & Technologies**
 
-- **AI & ML:** Dialogflow CX, Vertex AI, Python (NLTK, spaCy)
-- **Data Processing:** Pandas, NumPy, Google Cloud Functions
-- **Deployment:** Google Cloud Firestore, Firebase, Flask (for API endpoint)
-
+- **AI & ML:** Dialogflow CX, Vertex AI
 ---
 
 ## **📸 Project Demo & Screenshots**
 📽️ **Demo Video:** [Link](https://latrobeuni-my.sharepoint.com/personal/22008309_students_ltu_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2F22008309%5Fstudents%5Fltu%5Fedu%5Fau%2FDocuments%2FChatbot%20Demonstration%2Emov&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E161b9ba0%2D3a49%2D4b44%2D9c65%2Da8c20123d86f)  
 📊 **Architecture Diagram:**  
-![Architecture]()  
-
----
-
-## **📂 Folder Structure**
-```
-├── README.md
-├── docs/
-│   ├── project_overview.pdf
-│   ├── architecture_diagram.png
-│   ├── chatbot_demo.mp4
-├── src/
-│   ├── chatbot_code.py
-│   ├── data_processing.py
-│   ├── nlp_analysis.py
-├── models/
-│   ├── trained_model.pkl
-│   ├── chatbot_nlp_pipeline.json
-├── data/
-│   ├── sample_input.json
-│   ├── sample_output.json
-├── .gitignore
-```
+![Architecture](Dialogflow_diagram.png)  
 
 ---
 
@@ -156,16 +131,3 @@ Built using **Dialogflow CX**, the chatbot follows a **modular conversation flow
 - 🌍 **Multi-language Support** to cater to international travelers.
 - 🗺️ **Interactive Map Integration** using Google Maps API.
 
----
-
-## **🔗 Links**
-📌 **Live Demo:** [Insert link if available]  
-📌 **Full Report:** [Insert link to a PDF with project details]  
-📌 **GitHub Repository:** [Insert repo link here]  
-
----
-
-### 🎯 **Final Thoughts**
-This structured repository provides a **comprehensive showcase** of the chatbot project, ensuring it is **clear, professional, and recruiter-friendly**. 🚀  
-
-Let me know if you need **further refinements or additions**! 😊
