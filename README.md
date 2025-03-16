@@ -1,7 +1,5 @@
 # 🚀 AI-Powered Itinerary Planning Chatbot
 
-**Project by:** Christian Quach | Data Science & Automation Consultant | Mentoring Project  
-
 ---
 
 ## **📌 Project Overview**  
