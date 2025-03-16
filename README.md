@@ -102,9 +102,9 @@ Built using **Dialogflow CX**, the chatbot follows a **modular conversation flow
 ---
 
 ## **📸 Project Demo & Screenshots**
-📽️ **Demo Video:** [Insert link to chatbot demo]  
+📽️ **Demo Video:** [Link](https://latrobeuni-my.sharepoint.com/personal/22008309_students_ltu_edu_au/_layouts/15/stream.aspx?id=%2Fpersonal%2F22008309%5Fstudents%5Fltu%5Fedu%5Fau%2FDocuments%2FChatbot%20Demonstration%2Emov&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E161b9ba0%2D3a49%2D4b44%2D9c65%2Da8c20123d86f)  
 📊 **Architecture Diagram:**  
-![Architecture](docs/architecture_diagram.png)  
+![Architecture]()  
 
 ---
 
